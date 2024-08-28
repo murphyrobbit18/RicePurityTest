@@ -1,0 +1,29 @@
+.center{ /*style for image*/
+    text-align: center; 
+    }
+               
+.text{ /*style for text*/
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    }
+
+.result{ /*style for result text*/
+    text-align: center;
+    color: red;
+    font-weight: 900;
+    font-size: 16px;
+}
+               
+body{ /*style for background*/
+    background-color: #fdedc9;
+    }
+               
+button{ /*style for buttons*/
+    background-color: #d0f3cd;
+    border: 2px solid black;
+    border-radius: 12px;
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    }
